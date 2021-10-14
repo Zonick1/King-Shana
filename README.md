@@ -77,7 +77,7 @@ HAVE A FUN!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zonick1/King-Shana)
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙁𝙤𝙧; Rasanjana;Aqua snake;Darken Pasiya;Hacker Pancha;+Thanks&font=Fira%20Code&center=true&width=200&height=50"> 
+ <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙁𝙤𝙧+𝙃𝙚𝙡𝙥;𝙍𝙖𝙨𝙖𝙣𝙟𝙖𝙣𝙖;𝘼𝙦𝙪𝙖+𝙎𝙣𝙖𝙠𝙚;𝘿𝙖𝙧𝙠𝙚𝙣+𝙋𝙖𝙨𝙞𝙮𝙖;𝙃𝙖𝙘𝙠𝙚𝙧+𝙋𝙖𝙣𝙘𝙝𝙖;+𝙏𝙝𝙖𝙣𝙠𝙨+𝙛𝙤𝙧+𝙃𝙚𝙡𝙥+𝘼𝙜𝙖𝙞𝙣&font=Fira%20Code&center=true&width=200&height=50"> 
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`
