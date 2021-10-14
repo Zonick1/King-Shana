@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/1Punsara/QueenAmdi"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/adadafafafaf/blob/main/automated_repo.json?raw=True&logo=github"></a>
+  <a href="https://github.com/Zonick1/QueenAmdi"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/adadafafafaf/blob/main/automated_repo.json?raw=True&logo=github"></a>
   
   </a>
   <a href="https://github.com/BlackAmda/QueenAmdi">
@@ -75,7 +75,9 @@ HAVE A FUN!
 ### Simple Method 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zonick1/King-Shana)
+<p align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=𝙏𝙝𝙖𝙣𝙠𝙨+𝙁𝙤𝙧; Rasanjana;Aqua snake;Darken Pasiya;Hacker Pancha;+මොකක් හරි දාපන්&font=Fira%20Code&center=true&width=200&height=50">
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`
