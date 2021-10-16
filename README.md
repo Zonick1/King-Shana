@@ -74,6 +74,8 @@ HAVE A FUN!
 ```
 ### Simple Method 
 
+[![Run on Repl.it](https://repl.it/badge/github/Aqua-Snake/CBot)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zonick1/King-Shana)
 <p align="center">
 
